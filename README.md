@@ -1,5 +1,4 @@
 # My crypto currency testbed
----
 ## Intro
 This is my attempt to learning how crypto currencies work in bigger scale following Snakecoin implementation.
 ## Future Implementations
