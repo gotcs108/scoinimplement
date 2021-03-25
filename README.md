@@ -1,6 +1,6 @@
 # My crypto currency testbed
 ## Intro
-This is my attempt to learning how crypto currencies work in bigger scale following Snakecoin implementation.
+This is my attempt to learning the big-picture of how crypto currencies work through Snakecoin tutorial.
 ## Future Implementations
 *The hashlist can be replaced with Merkle tree DS.
 *Run & visualize it using flask.
